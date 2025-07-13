@@ -1,0 +1,55 @@
+{
+	"fileVersion": 15,
+	"title": "ZoneWars2P4G",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"compatibilityVersion": "36.10",
+	"requiredRedirectorStartingVersion": "36.10.43997926",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "ZoneWars2P4G",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"ContentServiceProjectCreationParams":
+		{
+			"teamId": "",
+			"requiredRedirectorStartingVersion": "36.10.43997926"
+		},
+		"matchmaking":
+		{
+			"maxPlayers": 50,
+			"maxTeamCount": 50,
+			"maxTeamSize": 50,
+			"maxSocialPartySize": 50,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "3e3cce85-e61e-4957-928a-96e44714ce57",
+		"modules":
+		{
+			"ZoneWars2P4G": "2348122d-4ded-b122-02f5-36a6ffb8a32f"
+		},
+		"projectVersePath": "/2players4gamers@fortnite.com/ZoneWars2P4G"
+	}
+}
