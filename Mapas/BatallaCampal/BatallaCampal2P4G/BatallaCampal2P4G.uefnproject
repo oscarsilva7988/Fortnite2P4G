@@ -1,0 +1,55 @@
+{
+	"fileVersion": 15,
+	"title": "BatallaCampal2P4G",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"compatibilityVersion": "36.20",
+	"requiredRedirectorStartingVersion": "36.10.43997926",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "BatallaCampal2P4G",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"ContentServiceProjectCreationParams":
+		{
+			"teamId": "",
+			"requiredRedirectorStartingVersion": "36.10.43997926"
+		},
+		"matchmaking":
+		{
+			"maxPlayers": 100,
+			"maxTeamCount": 100,
+			"maxTeamSize": 100,
+			"maxSocialPartySize": 100,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "a00c8dba-1137-4198-a749-ee8a683d3f09",
+		"modules":
+		{
+			"BatallaCampal2P4G": "fa7c10f9-4a3c-fcd1-b118-4f89d4f8b870"
+		},
+		"projectVersePath": "/2players4gamers@fortnite.com/BatallaCampal2P4G"
+	}
+}

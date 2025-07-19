@@ -1,0 +1,50 @@
+{
+	"fileVersion": 15,
+	"title": "TCTSinConstruccion2P4G",
+	"description": "",
+	"keyArt": "Resources/Thumbnail.png",
+	"docsUrl": "",
+	"apiAccess": "Private",
+	"compatibilityVersion": "36.10",
+	"requiredRedirectorStartingVersion": "36.10.43997926",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "MeltedIronGFS",
+	"plugins": [
+		{
+			"name": "TCTSinConstruccion2P4G",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 100,
+			"maxTeamCount": 100,
+			"maxTeamSize": 100,
+			"maxSocialPartySize": 100,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "ba594467-4309-324c-01a9-5fb4acf99c02",
+		"modules":
+		{
+			"TCTSinConstruccion2P4G": "7ec370a3-4269-6433-d827-47b72668ea09"
+		},
+		"projectVersePath": "/2players4gamers@fortnite.com/TCTSinConstruccion2P4G"
+	}
+}
